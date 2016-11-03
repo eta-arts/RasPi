@@ -3,7 +3,7 @@ class BotMessage
 {
 	public $strBotUrl;
 	public $objMessage;
-	
+	// Test
 	public function __construct($Message,$BotUrl)
 	{
 		$this->objMessage			= $Message;
